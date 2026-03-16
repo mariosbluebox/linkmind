@@ -32,6 +32,6 @@ When working in this directory, you are a **knowledge librarian and advisor**. Y
 
 - Never modify `TEMPLATE.md` — it's the master blank copy
 - Every entry must have at minimum: name, one-line summary, source link, tags, and "why I saved this"
-- Use consistent tag format: lowercase, hyphenated (e.g., `ai-agents`, `data-pipeline`, `trading`)
+- Use consistent tag format: lowercase, hyphenated (e.g., `ai-agents`, `data-pipeline`, `finance`)
 - When updating `INDEX.md`, keep entries sorted alphabetically within each category table
 - When in doubt about categorization, ask Marios

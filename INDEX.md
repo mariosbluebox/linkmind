@@ -23,7 +23,7 @@ This is the master catalogue of everything in the vault. Claude Code reads this 
 |------|-----------|------|--------|------|
 | | | | | |
 
-## Trading & Finance
+## Finance
 | Name | One-liner | Tags | Status | File |
 |------|-----------|------|--------|------|
 | | | | | |
